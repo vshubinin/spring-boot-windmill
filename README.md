@@ -9,9 +9,4 @@ Requirements:
 * DB either postgres or H2
 * Unit and integration tests
 * Postman collection of REST calls.
-...
-.
-.
-.
-.
-.
+...........
