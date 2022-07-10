@@ -10,7 +10,6 @@ Requirements:
 * Unit and integration tests
 * Postman collection of REST calls.
 ..........
-...
 .
 ..
 .
