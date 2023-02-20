@@ -63,7 +63,7 @@ public class OTPController {
                 if (otpnum == serverOtp) {
                     otpService.clearOTP(username);
 
-                    return ("Entered Otp is valid");
+                    return (SUCCESS);
                 } else {
                     return FAIL;
                 }
